@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Econ 103, Fall 25\n\nWeek 1\n\nReview of estimators, CLT and hypothesis tests: Notes\nSolutions to Empirical Exercises: q1.R, q2.R, q3.R, q4.R"
+  },
+  {
+    "objectID": "posts/2025-09-18-hello.html",
+    "href": "posts/2025-09-18-hello.html",
+    "title": "Hello Quarto",
+    "section": "",
+    "text": "Inline math \\(a^2 + b^2 = c^2\\).\n\\[\n\\int_0^1 x^2\\,dx = \\tfrac{1}{3}.\n\\]"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Filipe Fiedler",
+    "section": "",
+    "text": "PhD Student — UCLA, Department of Economics\nCV (PDF) • Email • GitHub"
+  },
+  {
+    "objectID": "index.html#work-in-progress",
+    "href": "index.html#work-in-progress",
+    "title": "Filipe Fiedler",
+    "section": "Work in Progress",
+    "text": "Work in Progress\n\nZoning Relief Shocks and Local Housing Markets\nEducational Outcomes and Enfranchisement, with Pedro Cavalcanti, Tiago Cavalcanti, Cezar Santos and Luciene Pereira\nPrecautionary On-the-Job Search, with Daniel Haanwinckel and Anthony Papac"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Posts on research, notes, and code.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHello Quarto\n\n\n\n\n\n\n\n\nSep 18, 2025\n\n\n\n\n\nNo matching items"
+  }
+]
