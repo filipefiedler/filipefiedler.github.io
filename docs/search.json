@@ -25,7 +25,14 @@
     "href": "index.html#work-in-progress",
     "title": "Filipe Fiedler",
     "section": "Work in Progress",
-    "text": "Work in Progress\n\nZoning Relief Shocks and Local Housing Markets\nEducational Outcomes and Enfranchisement, with Pedro Cavalcanti, Tiago Cavalcanti, Cezar Santos and Luciene Pereira\nPrecautionary On-the-Job Search, with Daniel Haanwinckel and Anthony Papac"
+    "text": "Work in Progress\n\nZoning Relief Shocks and Local Housing Markets\nVoting Restrictions, Education and Poverty, with Pedro Cavalcanti, Tiago Cavalcanti, Cezar Santos and Luciene Pereira\nPrecautionary On-the-Job Search, with Daniel Haanwinckel and Anthony Papac"
+  },
+  {
+    "objectID": "index.html#other-publications",
+    "href": "index.html#other-publications",
+    "title": "Filipe Fiedler",
+    "section": "Other Publications",
+    "text": "Other Publications\n\n Education in Brazil (1985–2020) , with Thomas Kang, forthcoming book chapter in Entre Crises: política econômica no Brasil da Nova República, edited by Leonardo Weller and Fernando Limongi"
   },
   {
     "objectID": "posts/2025-09-18-hello.html",
@@ -39,6 +46,6 @@
     "href": "readme.html",
     "title": "Filipe Fiedler",
     "section": "",
-    "text": "Open the terminal and do quarto render git add docs git commit -m “Publish site to docs/” git push"
+    "text": "Open the terminal and do quarto render git add docs git commit -m “Update to week 1 notes” git push"
   }
 ]
